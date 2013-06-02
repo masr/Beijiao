@@ -10,5 +10,6 @@ sitemap.xml
 *.log
 wp-content/cache/
 wp-content/backups/
+wp-content/gallery/*
 sitemap.xml
 sitemap.xml.gz
